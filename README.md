@@ -1,5 +1,3 @@
-# Image-Captioning
-
 # Optimizing Remote Sensing Image Captioning with SCST
 
 Dự án này tập trung vào việc tối ưu hóa khả năng sinh mô tả ảnh viễn thám (RSIC) bằng kỹ thuật **Self-Critical Sequence Training (SCST)**. Mục tiêu cốt lõi là chứng minh rằng việc tối ưu hóa trực tiếp các chỉ số đánh giá (Metric-based Optimization) hiệu quả hơn hẳn phương pháp huấn luyện truyền thống.
